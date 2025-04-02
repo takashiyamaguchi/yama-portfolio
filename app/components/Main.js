@@ -10,7 +10,7 @@ export function Main({ page }) {
       )}
       {page === 'about' && (
         <div>
-          <h1 className="text-4xl font-bold mb-8">About</h1>
+          <h1 className="mb-8 text-4xl font-bold">About</h1>
           {/* Aboutページのコンテンツ */}
         </div>
       )}
